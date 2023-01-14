@@ -1,7 +1,0 @@
-- SRS server integration
-- Remove carrier group (can't be done for now, causes script errors)
-- Add in spawn in Iran for the Vipers DONE
-- Rename server to 480th Training
-- Test with more than 1 client
-- Remove uneccesary bluefor aircraft spawns DONE
-- Change briefing info DONE
