@@ -8,4 +8,5 @@
 - [X] Adjust AA Mission Spawns
 - [X] Adjust red/blue fighter assignments
 - [X] Adjust red/blue civilian aircraft assignments
+- [ ] Reduce amount of AA/SAMs in AG Easy mission
 
