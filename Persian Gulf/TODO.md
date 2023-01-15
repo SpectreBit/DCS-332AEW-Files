@@ -5,4 +5,6 @@
 - [ ] Test with more than 1 client
 - [X] Remove uneccesary bluefor aircraft spawns
 - [X] Change briefing info
+- [ ] Adjust AA Mission Spawns
+- [ ] Adjust red/blue fighter assignments
 
