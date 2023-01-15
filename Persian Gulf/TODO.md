@@ -9,5 +9,5 @@
 - [X] Adjust red/blue fighter assignments
 - [X] Adjust red/blue civilian aircraft assignments
 - [X] Reduce amount of AA/SAMs in AG Easy mission
-- [ ] Disabled AI CAP Autospawn
+- [X] Disabled AI CAP Autospawn
 
