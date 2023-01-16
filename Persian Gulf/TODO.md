@@ -10,4 +10,5 @@
 - [X] Adjust red/blue civilian aircraft assignments
 - [X] Reduce amount of AA/SAMs in AG Easy mission
 - [X] Disabled AI CAP Autospawn
+- [X] Reduced AG hard unit spawn counts
 
