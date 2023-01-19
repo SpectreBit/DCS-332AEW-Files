@@ -15,5 +15,8 @@
 - [X] Added spawns for Hornets, Tomcats. On Carrier and 2 airfield spawn sites.
 - [X] Adjusted Carrier WP's
 - [ ] Add SRS Autoconnect 
+- [X] Added A-10's, Harriers
+- [X] Tweaked RAT to have more military traffic
+- [X] Tweaked wording in skynet info box
 
 
