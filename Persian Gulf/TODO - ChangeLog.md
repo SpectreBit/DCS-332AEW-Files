@@ -23,5 +23,6 @@
 - [ ] Fix SAM site autospawn
 - [ ] Add WW2 aircraft, missions
 - [ ] Finish Overlord Bot integration
+- [ ] Fix AA spawning on AG Easy missions
 
 
