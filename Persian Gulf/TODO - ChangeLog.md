@@ -14,7 +14,7 @@
 - [X] Added more Skynet functions. AWACS, 4 SAMS, 2 EWR's. Tested and verified functional.
 - [X] Added spawns for Hornets, Tomcats. On Carrier and 2 airfield spawn sites.
 - [X] Adjusted Carrier WP's
-- [ ] Add SRS Autoconnect 
+- [X] Add SRS Autoconnect 
 - [X] Added A-10's, Harriers
 - [X] Tweaked RAT to have more military traffic
 - [X] Tweaked wording in skynet info box
@@ -22,5 +22,6 @@
 - [ ] Test CVN group waypoints
 - [ ] Fix SAM site autospawn
 - [ ] Add WW2 aircraft, missions
+- [ ] Finish Overlord Bot integration
 
 
