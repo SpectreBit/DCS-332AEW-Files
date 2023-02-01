@@ -18,5 +18,9 @@
 - [X] Added A-10's, Harriers
 - [X] Tweaked RAT to have more military traffic
 - [X] Tweaked wording in skynet info box
+- [ ] Fix for Tacview 10min delay
+- [ ] Test CVN group waypoints
+- [ ] Fix SAM site autospawn
+- [ ] Add WW2 aircraft, missions
 
 
