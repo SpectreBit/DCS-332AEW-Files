@@ -21,7 +21,8 @@
 - [ ] Fix for Tacview 10min delay
 - [ ] Test CVN group waypoints
 - [ ] Fix SAM site autospawn
-- [ ] Add WW2 aircraft, missions
+- [X] Add WW2 aircraft
+- [ ] Add WW2 mission support
 - [ ] Finish Overlord Bot integration
 - [ ] Fix AA spawning on AG Easy missions
 
