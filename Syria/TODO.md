@@ -1,4 +1,3 @@
--Add following scripts
 - [X] A2A Spawns 
 - [X] Ground threats
 - [X] Mission settings
