@@ -5,7 +5,7 @@
 - [X] Add spawns at Damascus
 - [X] Add spawns at a Incirlik
 - [X] Add Skynet
-- [] Add SEA Range 
-- [] Add CCIP Range 
-- [] Add BVR Range 
-- [] Add BFM Range 
+- [ ] Add SEA Range 
+- [ ] Add CCIP Range 
+- [ ] Add BVR Range 
+- [ ] Add BFM Range 
