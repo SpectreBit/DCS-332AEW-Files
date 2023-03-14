@@ -1,4 +1,4 @@
-<h1>TODO</h1>	
+<h1>Features to add</h1>	
 <ul>
   <li>- [X] A2A Spawns</li>
   <li>- [X] Ground threats</li>
@@ -14,7 +14,7 @@
   <li>- [ ] Add Misc aircraft spawns (F-5, C101)</li>
 </ul>
 
-<h1>Tested?</h1>	
+<h1>Features tested</h1>	
 <li>- [X] SkyNet</li>
 <li>- [X] CVN</li>
 <li>- [X] AG mission spawning</li>
