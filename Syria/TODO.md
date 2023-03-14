@@ -9,3 +9,4 @@
 - [ ] Add BVR Range 
 - [ ] Add BFM Range 
 - [ ] Add Tankers
+- [ ] Add Misc aircraft spawns (F-5, C101)
