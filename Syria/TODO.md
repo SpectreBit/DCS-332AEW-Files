@@ -10,9 +10,9 @@
   <li>- [ ] Add CCIP Range</li>
   <li>- [ ] Add BVR Range</li> 
   <li>- [ ] Add BFM Range</li> 
-  <li>- [ ] Add Tankers</li>
+  <li>- [X] Add Tankers</li>
   <li>- [ ] Add Misc aircraft spawns (F-5, C101)</li>
-  <li>- [ ] Hide enemy units, mark SkyNet range</li>
+  <li>- [X] Hide enemy units, mark SkyNet range</li>
   <li>- [ ] Add server reset notices</li>
 </ul>
 
