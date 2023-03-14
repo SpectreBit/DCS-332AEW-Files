@@ -8,3 +8,4 @@
 - [ ] Add CCIP Range 
 - [ ] Add BVR Range 
 - [ ] Add BFM Range 
+- [ ] Add Tankers
