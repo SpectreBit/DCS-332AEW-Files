@@ -1,7 +1,7 @@
 -Add following scripts
--- [X] A2A Spawns 
--- [X] Ground threats
--- [X] Mission settings
+- [X] A2A Spawns 
+- [X] Ground threats
+- [X] Mission settings
 - [X] Add spawns at Damascus
 - [X] Add spawns at a Incirlik
 - [X] Add Skynet
