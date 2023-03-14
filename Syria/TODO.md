@@ -12,6 +12,7 @@
   <li>- [ ] Add BFM Range</li> 
   <li>- [ ] Add Tankers</li>
   <li>- [ ] Add Misc aircraft spawns (F-5, C101)</li>
+  <li>- [ ] Hide enemy units, mark SkyNet range</li>
 </ul>
 
 <h1>Features tested</h1>	
