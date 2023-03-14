@@ -15,7 +15,7 @@
 </ul>
 
 <h1>Tested?</h1>	
-- [X] SkyNet
-- [X] CVN
-- [X] AG mission spawning
-- [X] AA mission spawning
+<li>- [X] SkyNet</li>
+<li>- [X] CVN</li>
+<li>- [X] AG mission spawning</li>
+<li>- [X] AA mission spawning</li>
