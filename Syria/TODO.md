@@ -6,14 +6,16 @@
   <li>- [X] Add spawns at Damascus</li>
   <li>- [X] Add spawns at a Incirlik</li>
   <li>- [X] Add Skynet</li>
-  <li>- [ ] Add SEA Range</li>
-  <li>- [ ] Add CCIP Range</li>
-  <li>- [ ] Add BVR Range</li> 
-  <li>- [ ] Add BFM Range</li> 
+  <li>- [X] Add SEA Range</li>
+  <li>- [X] Add CCIP Range</li>
+  <li>- [X] Add BVR Range</li> 
+  <li>- [X] Add BFM Range</li> 
   <li>- [X] Add Tankers</li>
   <li>- [X] Add Misc aircraft spawns (F-5, C101, WW2)</li>
   <li>- [X] Hide enemy units, mark SkyNet range</li>
   <li>- [X] Add server reset notices</li>
+  <li>- [ ] Adjust SEA range ranging</li>
+  <li>- [ ] Add ships (static) to coastal shipyard</li>
 </ul>
 
 <h1>Features tested</h1>	
