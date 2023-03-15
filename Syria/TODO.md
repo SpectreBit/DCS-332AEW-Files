@@ -14,6 +14,8 @@
   <li>- [X] Add Misc aircraft spawns (F-5, C101, WW2)</li>
   <li>- [X] Hide enemy units, mark SkyNet range</li>
   <li>- [X] Add server reset notices</li>
+  <li>- [ ] Adjust SEA range ranging</li>
+  <li>- [ ] Add ships (static) to coastal shipyard</li>
 </ul>
 
 <h1>Features tested</h1>	
