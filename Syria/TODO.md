@@ -24,3 +24,5 @@
 <li>- [X] All AG mission spawning</li>
 <li>- [X] All AA mission spawning</li>
 <li>- [X] All AS mission spawning</li>
+<li>- [X] Tested smoke</li>
+
