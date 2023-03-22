@@ -16,6 +16,8 @@
   <li>- [X] Add server reset notices</li>
   <li>- [X] Adjust SEA range ranging</li>
   <li>- [X] Add ships (static) to coastal shipyard</li>
+  <li>- [ ] Add dynamic SkyNet spawn locations</li>
+  <li>- [ ] Add AAA Range</li>
 </ul>
 
 <h1>Features tested</h1>	
