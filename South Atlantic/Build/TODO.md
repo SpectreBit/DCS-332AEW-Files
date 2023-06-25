@@ -15,8 +15,8 @@
   <li>- [] Add Skynet</li>
   <li>- [] Add SEA Range</li>
   <li>- [] Add Static Ship Range</li>
-  <li>- [] Add CCIP Range</li>
-  <li>- [] Add BVR Range</li> 
+  <li>- [X] Add CCIP Range</li>
+  <li>- [X] Add BVR Range</li> 
   <li>- [] Add BFM Range</li> 
   <li>- [] Add AAA/MANPADs Range</li> 
   <li>- [] Add Checkride Range</li> 
