@@ -19,7 +19,7 @@
   <li>- [X] Add CCIP Range</li>
   <li>- [X] Add BVR Range</li> 
   <li>- [X] Add BFM Range</li> 
-  <li>- [ ] Add AAA/MANPADs Range</li> 
+  <li>- [X] Add AAA/MANPADs Range</li> 
   <li>- [ ] Add Checkride Range</li> 
   <li>- [ ] Add River Run</li> 
 
