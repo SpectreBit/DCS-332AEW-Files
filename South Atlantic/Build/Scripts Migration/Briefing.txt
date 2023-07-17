@@ -1,5 +1,5 @@
 Welcome to the 332 AEW Training Server! 
-This server file is run by SL SpectreBit and 2IC Winnie.  Reach out to any leadership for issues/concerns.
+This server file is run by SL SpectreBit.  Reach out to any leadership for issues/concerns.
 
 COMMS
 ____________________
@@ -31,15 +31,7 @@ CVN-75      127.50    75X         15.00
 LHA-1        128.50     80X   
 
 E-3A AWACS (OVERLORD): 251.00Mhz 
-REAPER FAC-A CYPRUS (ENFIELD 4-1): 140.20Mhz 
-REAPER FAC-A CCIP RANGE (COLT 1-1): 140.30Mhz 
 
-ADDED TACANS:
-DAMASCUS: 99X
-GAZIPASA: 98X
-ALEPPO: 97X
-BASSEL AL-ASSAD: 96X
-BEIRUT: 95X
 ____________________________________
 
 Quick note: 
