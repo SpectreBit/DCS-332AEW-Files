@@ -1,44 +1,53 @@
 Welcome to the 332 AEW Training Server! 
-This server file is run by SL SpectreBit.  Reach out to any leadership for issues/concerns.
+This server file is run by SL SpectreBit. Reach out to any leadership for issues/concerns.
 
 COMMS
 ____________________
 
 FLIGHTS:
-AV-8    Springfield     308.00
-A-10    Hawg            310.00
-F-14    Uzi                314.00
-F-16    Viper             316.00
-JF-17    Enfield          317.00
-F-18    Sting             318.00
+AV-8B    Springfield     308.00
+A-10C    Hawg            310.00
+F-14B    Uzi                314.00
+F-15E    Colt               315.00
+F-16C    Viper             316.00
+F-18C    Sting             318.00
 
 TANKERS:
-*WEST*
-TANKER           CALLSIGN     FREQ   TACAN
-KC-135 MPRS    Texaco 1-1   254.10    25Y
-KC-135 MPRS (Harrier)    Texaco 1-2   254.50    24Y
-KC-135 Fast      Arco 1-1       254.20    26Y
-KC-135 Slow     Arco 2-1       254.30    27Y
-KC-135               Shell 1-1       254.40    28Y
+*SOUTH*
+TANKER                       CALLSIGN     FREQ   TACAN
+KC-135 MPRS (Sting/Uzi)    Texaco 1-1    254.10    25Y
+KC-135 MPRS (Harrier)       Texaco 1-2   254.50    24Y
+KC-135 Fast (Viper)            Arco 1-1       254.20    26Y
+KC-135 Slow (Hawg)          Arco 2-1       254.30    27Y
+KC-135 (Colt)                   Shell 1-1       254.40    28Y
 
-*EAST*
-KC-135 MPRS #2    Texaco 2-1   255.10    25X
-KC-135 MPRS (HARRIER)    Texaco 2-2   255.50    24X
-KC-135 Fast #2      Arco 3-1     255.20    26X
-KC-135 Slow #2     Arc4o 4-1       255.30    27X
-KC-135               Shell 2-1       254.40    28X
+*NORTH*
+KC-135 MPRS (Sting/Uzi)    Texaco 2-1   255.10    25X
+KC-135 MPRS (Harrier)       Texaco 3-1   255.50    24X
+KC-135 Fast (Viper)           Arco 3-1     255.20    26X
+KC-135 Slow (Hawg)          Arco 4-1       255.30    27X
+KC-135 (Colt)                   Shell 2-1       254.40    28X
 
 NAVAL:
 CARRIER   FREQ    TACAN    ILCS
-CVN-75      127.50    75X         15.00
-LHA-1        128.50     80X   
+CVN-75     127.50    75X        15.00
+CVN-73     128.50    73X        13.00
+LHA-1       129.50     80X   
 
 E-3A AWACS (OVERLORD): 251.00Mhz 
-PUNTA ARENAS TACAN: 99X
 ____________________________________
 
 Quick note: 
-RED A2A traffic (not to be confused with spawned A2A targets) will not shoot unless shot at.
+RED A2A traffic (not to be confused with spawned A2A targets) will not shoot unless shot at!
+
+
+
+
+
+
+
+
+
 
 Quick Mission Start Guide
 __________________________________________________________________
